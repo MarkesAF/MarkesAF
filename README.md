@@ -1,4 +1,4 @@
-- System.outt.println("Hi, I’m Augusto Ferreira Marques, I'm currently stuying Analist and Development of Systems from UNIP");
+- System.out.println("Hi, I’m Augusto Ferreira Marques, I'm currently studying Software Analysis and Development from UNIP");
 - I’m interested in to learning more about JAVA and Spring Boot.
 -  I’m currently studying Java.
 -  I’m looking to collaborate on projects open-source and someone to study together.
